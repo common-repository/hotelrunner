@@ -1,0 +1,268 @@
+.input-title
+{
+  font-weight:600; display:block;
+}
+.carea {
+  background-color: #fff;
+  border: none;
+  padding: 10px !important;
+  box-shadow: none !important;
+  outline: 0 !important;
+  min-height: 40px;
+  transition: all .3s;
+  border: 2px solid #eaeaea;
+  border-radius: 25px !important;
+}
+.carea:focus{
+  border-color:#1e90ff;
+}
+td select{
+  padding-bottom:10px!important;
+}
+.switch{
+  position:relative;
+  display:inline-block;
+  width:60px;
+  height:34px;
+}
+.switch .slider{
+  position:absolute;
+  cursor:pointer;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-color:#ccc;
+  -webkit-transition:.4s;
+  transition:.4s;
+}
+.slider:before{
+  position:absolute;
+  content:"";
+  height:26px;
+  width:26px;
+  left:4px;
+  bottom:4px;
+  background-color:#fff;
+  -webkit-transition:.4s;
+  transition:.4s;
+}
+.hotelrunner-inputbg {
+  background-color:#f15f22!important;
+  padding:20px;
+  border-radius:10px;
+  margin:0!important;
+}
+.hotelrunner-textcolor { color:#ff0}
+.hotelrunner-font-50 { font-size:50px!important}
+.hotelrunner_text_color { color:#f15f22!important}
+.hotelrunner-color { color:#f15f22!important}
+.hotelrunner-bold { font-weight:bold }
+.hotelrunner-bolder { font-weight:bolder }
+.hotelrunner-f100 { font-weight:100 }
+.hotelrunner-f200 { font-weight:200 }
+.hotelrunner-f300 { font-weight:300 }
+.hotelrunner-f400 { font-weight:400 }
+.hotelrunner-f500 { font-weight:500}
+.hotelrunner-f600 { font-weight:600 }
+.hotelrunner-f700 { font-weight:700 }
+.hotelrunner-f800 { font-weight:800 }
+.hotelrunner-f900 { font-weight:900 }
+.hotelrunner-fnormal { font-weight:400 }
+.slider.round { border-radius:34px }
+.slider.round:before { border-radius:50% }
+.slider.round::after { border-radius:50% }
+.centertext { text-align:center}
+.hrbg-white { background-color:#fff!important }
+.hrbg-dark { background-color:#111!important }
+.hrbg-dark2 { background-color:#222!important }
+.hrbg-dark3 { background-color:#333!important }
+.hrbg-dark4 { background-color:#444!important }
+.hrbg-dark5 { background-color:#555!important }
+.hrbg-gold { background-color:gold!important }
+.cardbg { background-color:#fff!important }
+.hr-container .card
+{
+  min-width:100%;
+  margin-top: 5px !important;
+  height: auto 0
+}
+.radius25 { border-radius:25px!important }
+.no-radius { border-radius:0!important }
+.no-border { border:none!important }
+.no-shadow { box-shadow:none!important }
+.hd-block { display:block }
+.custom-box {
+  color:red;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:20px;
+  padding-right:20px;
+  margin:10px;
+  background-color:#222;
+  border-radius:10px;
+}
+.hrbg-gray {
+  background-color: lightgray !important;
+}
+.hotelrunner_toggle {
+  background-color: transparent;
+  color: black;
+  border: none;
+  shadow: none;
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+  transition: all .2s;
+  font-weight: bold;
+}
+
+.kapat_btn {
+  background-color: transparent;
+  color: white;
+  border: none;
+  shadow: none;
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+  transition: all .2s;
+  font-weight: bold;
+}
+.kapat_btn:hover{
+  color: black;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.hotelrunner-alert{
+  background-color: red;
+  color: white;
+  padding-top: 15px; padding-bottom: 15px;
+  padding-left: 20px; padding-right: 20px;
+}
+.hotelrunner-success{
+  background-color: #69BC35;
+  color: white;
+  padding-top: 15px; padding-bottom: 15px;
+  padding-left: 20px; padding-right: 20px;
+}
+
+.hrw-100 { width: 100% !important; }
+.hrw-95  { width: 95% !important;  }
+.hrw-90  { width: 90% !important;  }
+.hrw-85  { width: 85% !important;  }
+.hrw-80  { width: 80% !important;  }
+.hrw-75  { width: 75% !important;  }
+.hrw-70  { width: 70% !important;  }
+.hrw-65  { width: 65% !important;  }
+.hrw-60  { width: 60% !important;  }
+.hrw-55  { width: 55% !important;  }
+.hrw-50  { width: 50% !important;  }
+.hrw-45  { width: 45% !important;  }
+.hrw-40  { width: 40% !important;  }
+.hrw-35  { width: 35% !important;  }
+.hrw-30  { width: 30% !important;  }
+.hrw-25  { width: 25% !important;  }
+.hrw-20  { width: 20% !important;  }
+.hrw-15  { width: 15% !important;  }
+.hrw-10  { width: 10% !important;  }
+.hrw-5   { width: 5% !important;   }
+.hrw-0   { width: 0% !important;   }
+
+.hr-block  { display: block !important;  }
+.hr-inline { display: inline !important; }
+.hr-flex   { display: flex !important;   }
+.hr-grid   { display: grid !important;   }
+.hr-inblock   { display: inline-block !important;   }
+.hr-listitem { display: list-item !important; }
+.hr-dark1 { background-color: #111 !important; border-radius: 10px !important; border: 2px solid #000 !important; }
+.hr-dark2 { border-radius: 0px !important; border: 2px dotted black !important; }
+
+.hotelrunner-settings-title {
+  font-weight: 600;
+  font-size: 25px;
+  color: white;
+}
+.hotelrunner-bg {
+  background-color: #f15f22 !important;
+}
+body {
+      background: #f1f1f1 !important;
+}
+.mw-100 {
+  min-width: 100%;
+}
+
+.hotelrunner-text {
+  color: #f15f22 !important;
+}
+.hotelrunner-box-header {
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+.hotelrunner-box-body {
+  border-bottom-left-radius: .25rem;
+  border-bottom-right-radius: .25rem;
+}
+.bg-hrgray {
+  background-color: #f7f7f7 !important;
+}
+
+#settingsTab .nav-link {
+  color: black;
+  box-shadow: none;
+}
+#settingsTab .nav-link.active {
+  color: #f15f22;
+  box-shadow: none;
+}
+.list-square { list-style: square; }
+.list-circle { list-style: circle; }
+
+.hotelrunner_button {
+  background-color: transparent !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+  border: none !important;
+  text-shadow: none !important;
+  color: #f15f22 !important;
+  font-weight: 700 !important;
+  border: 2px solid #f15f22 !important;
+  transition:all .3s;
+}
+
+.hotelrunner_button:hover{
+  background-color: #f15f22 !important;
+  color: white !important;
+}
+
+.hotelrunner-form-control {
+  border: 1px solid #bebebe !important;
+  border-radius: 0px !important;
+  padding-bottom: .5rem !important;
+  padding-top: .5rem !important;
+}
+.radius-0px { border-radius: 0px; } .radius-1px { border-radius: 1px; }
+.radius-2px { border-radius: 2px; } .radius-3px { border-radius: 3px; }
+.radius-4px { border-radius: 4px; } .radius-5px { border-radius: 5px; }
+.radius-6px { border-radius: 6px; } .radius-7px { border-radius: 7px; }
+.radius-8px { border-radius: 8px; } .radius-9px { border-radius: 9px; }
+.radius-10px { border-radius: 10px; }.radius-10px { border-radius: 10px; }

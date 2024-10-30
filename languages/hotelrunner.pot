@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HotelRunner Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-13 13:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: inc/hotelrunner-class.php:81
+msgid "Title:"
+msgstr ""
+
+#: inc/hotelrunner-class.php:95
+msgid "Hotel Code:"
+msgstr ""
+
+#: inc/hotelrunner-class.php:109
+msgid "Layout:"
+msgstr ""
+
+#: inc/hotelrunner-class.php:109
+msgid "(If you adding to sidebar, we recommended Square)"
+msgstr ""
+
+#: inc/hotelrunner-class.php:117 inc/hotelrunner-settings.php:260
+msgid "Square"
+msgstr ""
+
+#: inc/hotelrunner-class.php:120 inc/hotelrunner-settings.php:256
+msgid "Inline"
+msgstr ""
+
+#: inc/hotelrunner-class.php:128
+msgid "Background Color:"
+msgstr ""
+
+#: inc/hotelrunner-class.php:142
+msgid "Drop Option:"
+msgstr ""
+
+#: inc/hotelrunner-class.php:150 inc/hotelrunner-settings.php:270
+msgid "Down"
+msgstr ""
+
+#: inc/hotelrunner-class.php:153 inc/hotelrunner-settings.php:271
+msgid "Up"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:28
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:31
+msgid "Right Sidebar Options"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:34
+msgid "Left Sidebar Options"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:101
+msgid "HotelRunner Widget Settings have been saved!"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:103
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/hotelrunner-settings.php:123
+msgid "HotelRunner Widget Settings"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:126
+msgid "shortcode"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:128
+#, php-format
+msgid ""
+"You can use this shortcode %s. You can manage shortcode settings from this "
+"page."
+msgstr ""
+
+#: inc/hotelrunner-settings.php:132
+msgid "Widgets Page"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:137
+#, php-format
+msgid "You can use on <a href=\"%s\">%s</a> page"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:137
+msgid "Widgets"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:147
+msgid "Settings"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:148
+msgid "Note!"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:148
+msgid "These settings apply when the shortcode is used"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:154
+msgid "Select your widget language"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:156
+msgid "Select Language"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:254
+msgid "Widget Layout"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:263
+msgid "Hotel Code ex:"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:264
+msgid "Enter your hotel code"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:267
+msgid "Drop Option"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:269
+msgid "Select Drop Option"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:275
+msgid "Widget Background Color"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:276
+msgid "Enter Color"
+msgstr ""
+
+#: inc/hotelrunner-settings.php:279
+msgid "Save"
+msgstr ""
+
+#. Name of the plugin
+msgid "HotelRunner Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds HotelRunner Booking Widget to your website"
+msgstr ""
+
+#. Author of the plugin
+msgid "Melih"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://melihozsecgin.com"
+msgstr ""
